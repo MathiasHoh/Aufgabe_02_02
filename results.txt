@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-VMBAPB8
+Date of Test: 2023-11-30 19:29:00
+Bubble Sort Time: 4.607149 seconds
+Quick Sort Time: 0.010497 seconds
+
