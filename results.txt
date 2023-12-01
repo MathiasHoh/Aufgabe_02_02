@@ -3,3 +3,8 @@ Date of Test: 2023-12-01 10:45:33
 Bubble Sort Time: 4.522913 seconds
 Quick Sort Time: 0.010965 seconds
 
+Computer Name: DESKTOP-LJIKSQL
+Date of Test: 2023-12-01 10:49:34
+Bubble Sort Time: 11.193579 seconds
+Quick Sort Time: 0.023002 seconds
+
